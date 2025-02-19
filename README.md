@@ -1,37 +1,37 @@
 # Pipex <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR0ZXJmMDFmM2dmNjE0OHdwOGxtbXJjbHRmd2s0cW1oZWtjZjF4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JSF447zv4ml0GKW4w/giphy.gif" width="50px">
 <p>
-  Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX.
+  This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
 </p>
 
 
 ## Key concepts:
 <ul>
-This is an introductory project to graphics using the MLX library.
-The important thing here is learning to integrate different libraries with a Makefile and generate some 2D real time graphics with some math basis.
+This project necessitates the comprehension and use of communication between processes and data pipes to correctly control the flow of data input and output of our projects, since we are emulating the working of pipes in a Unix terminal.
 </ul>
 
 ## Programming concepts:
 <ul>
-<li>Fractal generation</li>
-<li>Event Handling and user imput</li>
-<li>Aplied math and algorithms</li>
+<li>Inter-Process Communitcation</li>
+<li>Input/Output Redirection</li>
+<li>Process Management</li>
   </ul>
 
 ## Technologies:
 <ul>
   <li>C</li>
-  <li>MLX</li>
-  <li>Makefile</li>
+  <li>Makefile/li>
+  <li>Unix System Functions (fork, pipes, dup, dup2, execve) </li>
 </ul>
 
 ## Skills:
 <ul>
   <li>Imperative programming</li>
-  <li>Graphics</li>
+  <li>Unix</li>
 
 </ul>
 
 ## Soft skills:
 <ul>
-  This project is specially usefull to get to learn new libraries and tools to our disposal. The hard part is being able to comprehend this new concepts well enough to be able to integrate them in secuence. That requires some critical thinking and euristics.
+  This project works with a few layers of processes that can appear esoteric and complicated in the beginning.
+In that sense, attention to detail and resilience are needed to manage the frustration that the multiple complicate problems will create.
 </ul>
